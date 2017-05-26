@@ -1,0 +1,14 @@
+#center_block
+{
+	font-size : 100%;
+}
+#content
+{
+	min-height: 510px;
+	* min-height: 510px;
+	min-height: 510px\0/;
+}
+#footer.hide
+{
+	visibility: hidden;
+}
